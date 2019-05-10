@@ -25,4 +25,4 @@ _Note: Your answer should be rounded to 2 decimal places._
 
 ## Exercise 3 - Random
 
-In `./exercise-3.js`, write code for the declaration of a which sets it to a random integer from 1 to 1000 each time you run the script.
+In `./exercise-3.js`, write code for the declaration of the variable `a` which sets it to a random integer from 1 to 1000 each time you run the script.
