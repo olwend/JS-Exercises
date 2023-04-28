@@ -32,8 +32,16 @@ const shop = {
     }
   ]
 }
+console.log(shop.inventory);
+// console.log(shop.inventory.name === "Sharp soda");
+console.log(shop.inventory[3].price);
 
-// a) Cost of Sharp Soda?
+for (let item of shop.inventory) {
+  if (item.name == "Sharp Soda"){
+    console.log(item.price);
+  }
+}
+
 
 // Answer here...
 

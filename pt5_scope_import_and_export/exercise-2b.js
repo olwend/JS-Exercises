@@ -1,7 +1,7 @@
 // File to run
 
 // Add importing code here...
-
+var functions = require('./exercise-2a');
 // Tests
 try {
   f2(f1);

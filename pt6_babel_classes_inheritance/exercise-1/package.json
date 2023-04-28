@@ -1,0 +1,14 @@
+{
+  "name": "pt6_babel_classes_inheritance",
+  "version": "1.0.0",
+  "description": "## Exercise 1 - Babel",
+  "main": "exercise-2.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "build": "babel src -d lib --copy-files",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
